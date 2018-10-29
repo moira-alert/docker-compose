@@ -1,4 +1,4 @@
-# Moira docker-compose
+# Moira docker-compose [![Telegram](https://img.shields.io/badge/telegram-join%20chat-3796cd.svg)](https://t.me/moira_alert)
 
 If you're new here, better check out our main [README](https://github.com/moira-alert/moira/blob/master/README.md).
 
