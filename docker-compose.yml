@@ -17,6 +17,8 @@ services:
 
   checker:
     image: moira/checker
+    networks:
+      - default
     depends_on:
       - redis
       - filter
